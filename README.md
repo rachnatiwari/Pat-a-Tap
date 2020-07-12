@@ -31,31 +31,9 @@ git clone https://github.com/rachnatiwari/Pat-a-Tap.git
 
 *Lines beginning with '#' are comments and are not required in `.env` -->
 
- 2. Use `npm` to install dependencies for the project
-
+2. To start the app
 ```bash
-npm install
-```
-
-<!-- 
- 3. Make sure, **MongoDB** is running at your configured `url` in `.env` file. If not installed, then install from [here](https://docs.mongodb.com/manual/installation/)
-
-- Locally start mongod as
-
-```bash
-sudo service mongod restart
-``` -->
-
- 3. Run the program either by `npm` or `yarn` using
-
-```bash
-npm start
-```
-
-
-The **console** logs the following if the app is running properly
-```bash
-Server started on port 3000!!!
+run the **circles.html** in your browser.
 ```
 
 ## Project Folder Structure
