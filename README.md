@@ -33,7 +33,7 @@ git clone https://github.com/rachnatiwari/Pat-a-Tap.git
 
 2. To start the app
 ```bash
-run the **circles.html** in your browser.
+run circles.html in your browser.
 ```
 
 ## Project Folder Structure
