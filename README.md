@@ -40,8 +40,6 @@ run circles.html in your browser.
 
 > **Note**: The folder tree does not include sub-directories for common/generated folders. For example - `sounds`.
 
- - Sub-directories of the folders marked with **' * '** are not shown for clarity.
-
 ```bash
 ├── README.md
 ├── circles.css
