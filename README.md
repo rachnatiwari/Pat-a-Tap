@@ -3,13 +3,12 @@
 # Pat-a-Tap
 
 - Create music by tapping keyboard keys. 
+- Here is my live [website](https://keysound-2020.herokuapp.com)
 
 ## Technology Stack
 
 - PaperJS
 - HowlerJS
-
-> All the dependencies being used are listed in `package.json`.
 
 ### About Paper.js
 - It is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas. It offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves, all neatly wrapped up in a well designed, consistent and clean programming interface.
@@ -60,7 +59,7 @@ run circles.html in your browser.
 
 **Feature Requests and Bug Reports**
 
-- When you file a feature request or when you are submitting a bug report to the [Issue tracker](https://github.com/rachnatiwari/toDoApp/issues), make sure you add steps to reproduce it. Especially if that bug is some weird/rare one.
+- When you file a feature request or when you are submitting a bug report to the [Issue tracker](https://github.com/rachnatiwari/Pat-a-Tap/issues), make sure you add steps to reproduce it. Especially if that bug is some weird/rare one.
 
 **Join the development**
 
